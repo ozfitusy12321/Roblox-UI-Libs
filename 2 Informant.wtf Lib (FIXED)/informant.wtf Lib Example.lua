@@ -140,4 +140,5 @@ sections.Section1:AddColor({
 
 library:SendNotification("Notification", 5, Color3.new(255, 0, 0))
 
+
 --Window:SetOpen(true) -- Either Close Or Open Window
